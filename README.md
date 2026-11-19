@@ -20,6 +20,7 @@ Key Data Issues:
 <img width="1366" height="768" alt="2026-11-19 (2)" src="https://github.com/user-attachments/assets/c3521031-f8d4-4eb2-9000-1b73020e60de" />
 Explore the interactive visualization on **Looker Studio**:  
 👉 [[Open Sales & Analytic Overview Dashboard]](https://datastudio.google.com/reporting/e95adc4e-e559-494b-ab00-38fa87dd7f1f)
+
 # Conclusions
 Following data cleansing in Python (Pandas), the cafe sales dataset reflects 9,540 customers, 28,850 orders, $85,472.00 in total revenue, and an Average Order Value (AOV) of $8.96 across the 2023 period.   
 - Product Performance: Juice is the clear top-selling item at 6,141 units, ahead of Coffee (3,425 units), Salad (3,314 units), Cake (3,278 units), and Sandwich (3,266 units).
